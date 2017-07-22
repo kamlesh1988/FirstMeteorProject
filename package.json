@@ -1,0 +1,19 @@
+{
+  "name": "firstmeteorproject",
+  "version": "1.0.0",
+  "description": "First Metero project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamlesh1988/FirstMeteorProject.git"
+  },
+  "author": "Kamlesh Patel <kamlesh.patel@gupshup.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamlesh1988/FirstMeteorProject/issues"
+  },
+  "homepage": "https://github.com/kamlesh1988/FirstMeteorProject#readme"
+}
